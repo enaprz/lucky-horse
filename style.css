@@ -1,0 +1,28 @@
+body {background-color: #50f2ea;}
+
+.track {
+    display: inline-block;
+    background-color: green;
+    height: 500px;
+    width: 80%;
+    
+}
+.lineup {
+    display: inline-block;
+    background-color: beige;
+    height:500px;
+    width: 20%;
+    float: right;
+}
+#betcoins {
+    background-color: beige;
+    float: left; 
+    height:250px;
+    width: 35%;
+}
+#bank {
+    background-color: black;
+    float:right;
+    height:250px;
+    width: 30%;
+}
